@@ -1,0 +1,104 @@
+body {
+	font-family: sans-serif;
+}
+nav{
+	width: 100%;
+
+}
+nav .padding-10{
+	margin-left: 15%;
+}
+nav .backgroundhover{
+	font-size: 30px;
+}
+.padding{
+	padding-left:20px;
+}
+.linha {
+	width: 100%;
+	margin:0 auto;
+	overflow: auto;
+}
+.coluna{
+	float: left;
+	padding:0px;
+}
+.col100{
+	width: 100%;
+}
+.col75{
+	width: 75%;
+}
+.col50{
+	width:50%;
+}
+.col25{
+	width:25%;
+}
+.background {
+	background-color: black;
+}
+.padding-20{
+	padding-left: 30px;
+}
+.fonte-grande{
+	font-size: 55px;
+}
+.grande{
+	height: 80px;
+}
+.fina{
+	height: 2px;
+}
+.white{
+	background-color: white;
+}
+.larga{
+	height: 50%;
+	width: 50%;
+}
+.superpadding{
+	padding-left:60%;
+}
+.margin{
+	margin-left:100px;
+}
+.backgroundo{
+	background-color:black;
+}
+.backgroundhover{
+	background-color:black;
+}
+.backgroundhover:hover{
+	border-radius: 5px;
+	background-color:#517194;
+	font-color:black;
+	cursor: pointer;
+    transition: all .4s;
+}
+.inline{
+	display: inline-block;
+	list-style: none;
+}
+.decotarion0{
+	text-decoration: none;
+	color:white;
+	font-weight: 50px;
+}
+.paragrafo{
+	text-align: justify;
+	text-indent: 30px;
+}
+.center{
+	text-align: center;
+}
+.discover{
+	font-family: dark-crystal-outline, sans-serif;
+}
+.bloco
+{
+	padding-top:2%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
